@@ -1,0 +1,14 @@
+CudaProject/CudaProject/Debug/
+CudaProject/CudaProject/examples/
+CudaProject/CudaProject/plugins/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+CudaProject/CudaProject/x64/Debug/
+CudaProject/CudaProject/resources/
+*.jpg
+*.png
